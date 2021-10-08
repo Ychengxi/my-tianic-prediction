@@ -1,2 +1,2 @@
 # my-tianic-prediction
-Logistic Regression for Titanic data classification 
+ Naive Bayesian Model  for Titanic data classification 
